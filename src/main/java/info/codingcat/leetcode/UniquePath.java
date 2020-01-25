@@ -21,7 +21,7 @@ public class UniquePath {
     }
 
     private int dp(int m, int n) {
-        if (m == 1 | n == 1) {
+        if (m == 1 || n == 1) {
             return 1;
         }
 
