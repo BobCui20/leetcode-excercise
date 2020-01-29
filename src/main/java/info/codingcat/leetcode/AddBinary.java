@@ -1,7 +1,5 @@
 package info.codingcat.leetcode;
 
-import java.util.Arrays;
-
 /**
  * AddBinary
  */
